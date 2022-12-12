@@ -7,4 +7,7 @@
 - merchantwords - Uncover product opportunities, spy on your competition, create successful marketing campaigns, and grow your sales and business with our tools and services.
 - JungleScout 
 - Teikametrics Flywheel Optimize your ads 
+- competitor pricing- camelcamelcamel.com
+- - google ads kwyrowrd planner
+- long tail pro
  
