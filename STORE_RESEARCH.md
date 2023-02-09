@@ -379,3 +379,14 @@ What are the Top Selling Items on Etsy in 2022?
 #### overview image
 [image](https://d3vlhkqyz4y38a.cloudfront.net/blog/wp-content/uploads/2019/03/info-etsy-2022.jpg)
 
+
+# Amazon
+Some best selling products on Amazon
+```
+    Home entertainment 
+    Cookware and cutlery 
+    Laptops 
+    Home office furniture 
+    Fitness equipment and apparel
+    Fashion apparel 
+```
