@@ -197,6 +197,7 @@ Candles have long played a big role in prayer and meditation. People use candles
 In many cultures, candles are also used to honor the dead and to show support for someone who has passed away. Whether you're using candles in a religious or spiritual context or simply using them to create a peaceful atmosphere in your home, they can have a powerful impact on your mood and well-being.
 
 In conclusion, candles have a lot of different uses and meanings, from spells and incantations to prayer and meditation. Whether you're using them for spiritual purposes or simply to create a calming atmosphere, it's important to use them safely and responsibly.
+
 ----------------------------------
 
 ## Blog 1: "The Rise of Candle Making Business in India"
@@ -204,15 +205,18 @@ In conclusion, candles have a lot of different uses and meanings, from spells an
 ![riseOfcandlemaking](https://user-images.githubusercontent.com/2136211/218320608-2472bde2-84ef-4c13-aa81-4b1b4c166d10.png)
 
 
+
 The candle making industry has been a big hit in the West, where it is a $2 billion business. However, in India, the scenario was not the same. The influence of Christianity, where candles play a big role, is not as dominant in India. But the trend is changing and India is adapting to this new trend, especially among the youth. They understand the importance of mental health and how candles can uplift their mood, which is why the candle making business is becoming increasingly popular in India. With more and more people starting their business from home and candles being a great gift option, the future of candle making in India is looking bright.
 
 -----------------------
+
 ## Blog 2: "Candles vs Soaps: Can You Convert Soaps into Candles?"
 
 ![Can You Convert Soaps into Candles](https://user-images.githubusercontent.com/2136211/218320625-b316d5d1-df91-49c7-9fc6-7c6a993c0084.jpg)
 
 
 The idea of converting soap into a candle might seem appealing, but it's not possible. Although soaps might look similar to candles, they are made of different materials. On the other hand, cosmetics like lotions and balms contain a percentage of wax, including soy wax which is skin safe, and beeswax, which is commonly used in cosmetics. The wax in cosmetics makes the texture similar to candles, but it's not possible to convert soap into a candle. In conclusion, candles and soaps are two completely different products, and one cannot be converted into the other.
+
 
 ----------------------------------
 
@@ -221,16 +225,21 @@ The idea of converting soap into a candle might seem appealing, but it's not pos
 
 
 Do you love lighting candles to create a relaxing ambiance in your home? Do you also enjoy using body massage lotions to nourish your skin? Well, now you can have both in one product with the upcoming body massage candle. This innovative candle is made of essential oils, moisturizing oils, and beeswax to provide nourishing benefits to your skin. Simply light the candle for 15 to 20 minutes, let the wax pool melt to the edge, and then extinguish the flame using a candle snuffer. You can then drop the liquid wax on your skin and massage it directly for a luxurious spa experience. With this candle, you no longer have to buy separate products for aromatherapy and skin care.
+
 -----------------
+
 ## Blog 2: "The Science Behind Soy Wax Candles: Are They Safe to Use?"
 
 
 
 Many people prefer soy wax candles over paraffin candles due to their clean burn and eco-friendliness. But, what happens to the burnt wax and are they safe to use? The answer is yes, soy wax candles burn clean and do not emit harmful chemicals into the air. The wax tends to evaporate as it burns, leaving behind no carbon residue. Additionally, soy wax candles can be used safely in AC compartments, but it's always best to use a smaller sized candle and avoid leaving it unattended in a closed room.
+
 ---------------
+
 ## Blog 3: "The Do's and Don'ts of Candle Safety"
 
 Candles are a popular way to create a relaxing atmosphere, but it's important to be aware of the proper usage and safety guidelines. Always use a candle snuffer to extinguish the flame, and trim the wick to 1/4 inch before relighting the candle to ensure a clean burn. Avoid blowing the candle out with your hand, as the liquid wax can splash and cause injury. Additionally, it's not safe to light a big candle in front of an AC and avoid using it in a closed room if you're not present. And finally, never eat a candle! Candles are not food and should not be consumed. If you have young children or pets in your home, be sure to store candles in a safe place and supervise their usage.
+
 
 ---------------
 
