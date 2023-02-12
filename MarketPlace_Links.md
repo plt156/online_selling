@@ -13,3 +13,8 @@
 - mini urli https://www.flipkart.com/avnika-bhandari-mini-candle-urli-100-soy-wax-hand-poured-fragrance-infused/p/itma0f9432080d27?pid=CANGKDHEY6JWZ9V8
 - amber candle https://www.flipkart.com/avnika-bhandari-scented-amber-jar-candle-mood-elevation-room-freshner-luxury-home-decor/p/itm08496a4312a72?pid=CANGM4P8GAPYMSAZ
 - holographic candle https://www.flipkart.com/avnika-bhandari-scented-holographic-candle/p/itm229c7dc6e2548?pid=CANGKDFMGCPCHKYS
+
+# Others
+- Etsy https://prettylittlethingsab.etsy.com
+- Indymandi https://indymandi.com/visit/store/152
+
