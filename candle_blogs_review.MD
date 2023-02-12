@@ -1,4 +1,6 @@
 Blog1:  popular way to induce sleep using candles? 
+![induce sleep using candles](https://user-images.githubusercontent.com/2136211/218320491-cbe65d2b-a2b2-4cf6-879c-0f5272587569.jpg)
+
 
 Hey there!
 
@@ -10,9 +12,11 @@ So is there any particular fragrance or flavor—sage? Lavender? What do you hav
 
 And we don't want to trigger too many emotions late night just before
 
-
+-------------------
 
 Blog 2: Can candles treat depression?
+![Can candles treat depression](https://user-images.githubusercontent.com/2136211/218320500-35eddd91-93d3-4a54-a78c-42f6cabb0c3a.jpg)
+
 
 Yes. It's about the neurotransmitter sending messages to the brain after we smell something. So yes we can.
 
@@ -22,10 +26,13 @@ The best candles for treating depression are fragrances like eucalyptus, pepperm
 
 What do you think about chamomile? Chamomile is again very calming and that's a night fragrance so that could help us sleep better at night.
 
-
+-----------------
 
 
 Blog 3:  You know what candles are good for, and now you want to know how they can help you remove negativity.
+![remove negativity using candles](https://user-images.githubusercontent.com/2136211/218320521-a887309d-0aba-4ba4-b52c-934969df2e84.jpg)
+
+
 
 It's easy to get caught up in the negativity of life and feel like there's no way out. But candles can help you take back control, by helping you clear away the negative energy that has been holding you back.
 
@@ -56,6 +63,9 @@ Regardless of how it works, there are plenty of ways you can use candles for thi
 
 
 Blog 4: some tips for maintaining your candles
+![tips for maintaining your candles](https://user-images.githubusercontent.com/2136211/218320528-cad4cccf-8ff8-42a0-bda9-d467f074f675.jpg)
+
+
 
 Hey, candle fanatics!
 
@@ -86,6 +96,8 @@ Here are some tips for maintaining your candles:
 ----------------
 "Tips for Proper Candle Maintenance: Keep Your Candle Safe and Long-lasting
 
+
+
 Candles are a great way to add warmth, ambiance, and fragrance to your home. However, improper care and maintenance of your candle can lead to reduced burn time, uneven wax distribution, and even potential fire hazards. Here are some tips to help you properly maintain your candles, ensuring a safe and long-lasting experience.
 
 Burn Time
@@ -115,6 +127,9 @@ In conclusion, proper candle maintenance is essential for a safe and long-lastin
 
 A Guide to Choosing the Right Fragrance for Your Home: The Benefits of Sage and Lotus
 
+![sage-lotus](https://user-images.githubusercontent.com/2136211/218320552-2fd21cf6-ae48-49a6-931e-12dbdae359cf.jpg)
+
+
 Candles have been a popular way to add fragrance and ambiance to a home for centuries. In recent years, there has been an influx of new fragrance options available, including the popular scents of lavender, sage, and lotus. In this blog, we will explore the benefits of these fragrances and discuss the various options available for incorporating them into your home.
 
 Sage and lotus are two fragrances that have been known for their calming effects. Sage is often used as an antidepressant fragrance, while lotus is a relaxing and peaceful scent. These fragrances are believed to help uplift the mood, making them great choices for meditation, relaxation, and stress relief.
@@ -130,6 +145,9 @@ In conclusion, fragrance preference is a personal matter, and there are a variet
 ----------------------------------
 The Candle March: A Symbol of Hope and Light
 
+![candle_march](https://user-images.githubusercontent.com/2136211/218320563-5b992dec-c0e2-4394-b842-b4c3c51413d0.png)
+
+
 Candle marches have been a part of various social, political and religious movements. It is a way for people to come together and protest against something or pray for a cause. The soft light of the candles can be seen as a symbol of hope and positivity in the face of darkness.
 
 Many people believe that candles have a big role to play in prayer and meditation. The Jains, for example, believe that candles contain cells, giving them a spiritual significance.
@@ -144,19 +162,30 @@ So, if you're looking to participate in a candle march or simply use candles as 
 
 Blog 1: The Science Behind Candle Magic and Spellwork
 
+![Candle Magic and Spellwork2](https://user-images.githubusercontent.com/2136211/218320574-be79609f-dda3-470b-93a5-fd96a95d7642.jpg)
+
+
 Have you heard of spells and incantations performed with candles? Have you seen people moving alphabets around to call a soul? There is a lot of science behind these practices. Some people like to engrave spells on candles and then anoint them with spices before burning the entire candle and making a wish.
 
 But what is the science behind it all? Well, the idea behind candle magic is that the flame represents our intention, and the heat and light released from the candle help to magnify our intention and make it a reality. By adding spices and engraving spells on the candle, people are believed to add even more energy and power to their intention.
 
 However, it's important to note that this is not a widely accepted scientific concept, and many people may see it simply as a form of entertainment or superstition. Regardless, candle magic and spellwork have been a part of human cultures for centuries and continue to be popular today.
 
+-------------
+
+
 Blog 2: The Danger of Burning Candles at Both Ends
+
+
 
 Have you heard of people burning candles at both ends? This may seem like a fun and creative way to use candles, but it can actually be dangerous. When a candle is burned at both ends, it can cause the wax to melt too quickly, leading to a fire hazard. It's also possible for the flame to get too close to flammable objects, which could result in a serious fire.
 
 For these reasons, it's important to never burn a candle at both ends and to always use candles safely and responsibly. If you're looking for a way to use candles in a fun and creative way, there are many other safe alternatives. For example, you could try arranging candles in a beautiful display, using them to set the mood in your home, or even using them in meditation and prayer.
 
 Blog 3: The Role of Candles in Prayer and Meditation
+
+![Candles in Prayer and Meditation](https://user-images.githubusercontent.com/2136211/218320587-9712bc1d-4d99-4413-8bec-f2c41386e3dd.png)
+
 
 Candles have long played a big role in prayer and meditation. People use candles to set the mood and create a peaceful atmosphere, and they can also be used as a focus for meditation and reflection. When you light a candle, you are symbolically bringing light into the room and into your life.
 
@@ -167,9 +196,16 @@ In conclusion, candles have a lot of different uses and meanings, from spells an
 
 Blog 1: "The Rise of Candle Making Business in India"
 
+![riseOfcandlemaking](https://user-images.githubusercontent.com/2136211/218320608-2472bde2-84ef-4c13-aa81-4b1b4c166d10.png)
+
+
 The candle making industry has been a big hit in the West, where it is a $2 billion business. However, in India, the scenario was not the same. The influence of Christianity, where candles play a big role, is not as dominant in India. But the trend is changing and India is adapting to this new trend, especially among the youth. They understand the importance of mental health and how candles can uplift their mood, which is why the candle making business is becoming increasingly popular in India. With more and more people starting their business from home and candles being a great gift option, the future of candle making in India is looking bright.
 
+-----------------------
 Blog 2: "Candles vs Soaps: Can You Convert Soaps into Candles?"
+
+![Can You Convert Soaps into Candles](https://user-images.githubusercontent.com/2136211/218320625-b316d5d1-df91-49c7-9fc6-7c6a993c0084.jpg)
+
 
 The idea of converting soap into a candle might seem appealing, but it's not possible. Although soaps might look similar to candles, they are made of different materials. On the other hand, cosmetics like lotions and balms contain a percentage of wax, including soy wax which is skin safe, and beeswax, which is commonly used in cosmetics. The wax in cosmetics makes the texture similar to candles, but it's not possible to convert soap into a candle. In conclusion, candles and soaps are two completely different products, and one cannot be converted into the other.
 
@@ -177,12 +213,16 @@ The idea of converting soap into a candle might seem appealing, but it's not pos
 
 Blog 1: "Introducing the Revolutionary Body Massage Candle: A Dual Purpose Candle"
 
-Do you love lighting candles to create a relaxing ambiance in your home? Do you also enjoy using body massage lotions to nourish your skin? Well, now you can have both in one product with the upcoming body massage candle. This innovative candle is made of essential oils, moisturizing oils, and beeswax to provide nourishing benefits to your skin. Simply light the candle for 15 to 20 minutes, let the wax pool melt to the edge, and then extinguish the flame using a candle snuffer. You can then drop the liquid wax on your skin and massage it directly for a luxurious spa experience. With this candle, you no longer have to buy separate products for aromatherapy and skin care.
 
+
+Do you love lighting candles to create a relaxing ambiance in your home? Do you also enjoy using body massage lotions to nourish your skin? Well, now you can have both in one product with the upcoming body massage candle. This innovative candle is made of essential oils, moisturizing oils, and beeswax to provide nourishing benefits to your skin. Simply light the candle for 15 to 20 minutes, let the wax pool melt to the edge, and then extinguish the flame using a candle snuffer. You can then drop the liquid wax on your skin and massage it directly for a luxurious spa experience. With this candle, you no longer have to buy separate products for aromatherapy and skin care.
+-----------------
 Blog 2: "The Science Behind Soy Wax Candles: Are They Safe to Use?"
 
-Many people prefer soy wax candles over paraffin candles due to their clean burn and eco-friendliness. But, what happens to the burnt wax and are they safe to use? The answer is yes, soy wax candles burn clean and do not emit harmful chemicals into the air. The wax tends to evaporate as it burns, leaving behind no carbon residue. Additionally, soy wax candles can be used safely in AC compartments, but it's always best to use a smaller sized candle and avoid leaving it unattended in a closed room.
 
+
+Many people prefer soy wax candles over paraffin candles due to their clean burn and eco-friendliness. But, what happens to the burnt wax and are they safe to use? The answer is yes, soy wax candles burn clean and do not emit harmful chemicals into the air. The wax tends to evaporate as it burns, leaving behind no carbon residue. Additionally, soy wax candles can be used safely in AC compartments, but it's always best to use a smaller sized candle and avoid leaving it unattended in a closed room.
+---------------
 Blog 3: "The Do's and Don'ts of Candle Safety"
 
 Candles are a popular way to create a relaxing atmosphere, but it's important to be aware of the proper usage and safety guidelines. Always use a candle snuffer to extinguish the flame, and trim the wick to 1/4 inch before relighting the candle to ensure a clean burn. Avoid blowing the candle out with your hand, as the liquid wax can splash and cause injury. Additionally, it's not safe to light a big candle in front of an AC and avoid using it in a closed room if you're not present. And finally, never eat a candle! Candles are not food and should not be consumed. If you have young children or pets in your home, be sure to store candles in a safe place and supervise their usage.
