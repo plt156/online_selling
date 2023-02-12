@@ -56,8 +56,28 @@ What happens if you turn a candle sideways?
 
 What would happen if someone actually ate a candle?
 
-
 where does burnt wax go?
+
+How do you pick the right wick size?
+
+Where do you buy candle making supplies?
+
+Which wick type should you pair with that wax and jar?
+
+How do you prevent soy wax imperfections?
+
+How many candles should you make to sell starting out?
+
+How do you improve hot throw?
+
+How do you choose a fragrance oil?
+
+Should you buy a candle making kit?
+
+Do you need insurance to sell candles?
+
+Why does my candle smell bad?
+
 
 ## soap
 
