@@ -4,6 +4,8 @@
 - [Honey Oat Soap](https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp)
 - [rose clay soap](https://www.amazon.in/dp/B0BTWXCV5Y?ref=myi_title_dp)
 - [Gratitude journal](https://www.amazon.in/dp/B0BVKB3CX5?ref=myi_title_dp)
+- [Dough bowl candle](https://www.amazon.in/dp/B0BW16C9H7?ref=myi_title_dp)
+- [Amber candle](https://www.amazon.in/dp/B0BVH8PZM1?ref=myi_title_dp)
 
 # Flipkart
 - [pack of 3 wax tablet ](https://www.flipkart.com/avnika-bhandari-scented-wax-tablet-pack-3-candle/p/itm451346119d3c4?pid=CANGKDGGGCBYHUSX)
