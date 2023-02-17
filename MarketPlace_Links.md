@@ -8,6 +8,8 @@
 - [Amber candle](https://www.amazon.in/dp/B0BVH8PZM1?ref=myi_title_dp)
 - [nail oil](https://www.amazon.in/dp/B0BW4N3DLT?ref=myi_title_dp)
 
+[Seller Products](https://www.amazon.in/s?me=A3AKUQ1VSVC87D&marketplaceID=A21TJRUUN4KGV)
+
 # Flipkart
 - [pack of 3 wax tablet ](https://www.flipkart.com/avnika-bhandari-scented-wax-tablet-pack-3-candle/p/itm451346119d3c4?pid=CANGKDGGGCBYHUSX)
 - [pack of 1 wax tablet ](https://www.flipkart.com/avnika-bhandari-wax-tablets-100-soy-wax-hand-poured-fragrance-infused-candle/p/itm1445641ae3775?pid=CANGKTT5XTYBW7VZ)
