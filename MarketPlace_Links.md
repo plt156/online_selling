@@ -23,3 +23,17 @@
 - Etsy https://prettylittlethingsab.etsy.com
 - Indymandi https://indymandi.com/visit/store/152
 
+# Etsy
+- [Wax Tablets, 100% soy wax, Hand Poured, Fragrance infused (Pack Of 2)](https://www.etsy.com/in-en/listing/1340679489/wax-tablets-100-soy-wax-hand-poured)
+- [Gratitude Journal](https://www.etsy.com/in-en/listing/1367961050/daily-gratitude-journal-diary)
+- [Calming bath salt](https://www.etsy.com/in-en/listing/1367990432/muscle-relaxing-pain-ache-relief-bath)
+- [Nail oil](https://www.etsy.com/in-en/listing/1419631849/nail-growth-oil-30-ml-enriched-with)
+- [Large Candle Urli, 100% soy wax, Hand Poured, Fragrance infused](https://www.etsy.com/in-en/listing/1337351804/large-candle-urli-100-soy-wax-hand)
+- [Mini Candle Urli](https://www.etsy.com/in-en/listing/1351159733/mini-candle-urli-100-soy-wax-hand-poured)
+- [Dough Bowl Candle](https://www.etsy.com/in-en/listing/1351159049/dough-bowl-candle-100-soy-wax-hand)
+- [Holographic candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3228092613)
+- [Amber jar candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3212736064)
+- [Matt jar candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3212736066)
+- [Birthday candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3228092615)
+- [feel good candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3266897477)
+
