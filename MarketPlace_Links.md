@@ -36,4 +36,8 @@
 - [Matt jar candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3212736066)
 - [Birthday candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3228092615)
 - [feel good candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3266897477)
-
+- [blueberry waffle soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040799)
+- [coffee cheesecake soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040801)
+- [donut soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3252611648)
+- [Oats and Honey soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040807)
+- [rose clay soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3252611652)
