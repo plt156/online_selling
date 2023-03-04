@@ -26,7 +26,7 @@ You can purchase our Rose Clay Soap through this link: https://www.amazon.in/dp/
 
 When it comes to choosing the best soap, it depends on your skin type and your specific needs. If you have sensitive skin, it is essential to choose a soap that is gentle and does not contain harsh ingredients. On the other hand, if you have oily skin, you may need a soap that can help balance the natural oils in your skin.
 
-At Soap & Co., we offer a variety of handmade soaps that are designed to cater to different skin types and needs. Our Blueberry Waffle Soap, Coffee Cheesecake Soap, and Donut Soap are great options for those looking for unique
+At Pretty Little Things, we offer a variety of handmade soaps that are designed to cater to different skin types and needs. Our Blueberry Waffle Soap, Coffee Cheesecake Soap, and Donut Soap are great options for those looking for unique offering. Visit https://prettylittlethingsab.etsy.com/
 
 
 ## Why Homemade Soap?
@@ -172,25 +172,25 @@ Market: Honey Oat Soap - https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp - 
 
 Cleaning your ears is an essential part of personal hygiene. But, did you know that the skin in your ear is delicate and requires special attention? To avoid irritation and damage, it's essential to use a gentle soap while washing your ears. Pretty Little Things Honey Oat Soap is an excellent choice for this. Handmade with natural ingredients like oatmeal and honey, this soap is gentle on your skin and can help soothe any irritation. Wet your ear with warm water, lather up the soap, and gently clean your ear with your fingers. Rinse thoroughly with warm water and dry with a clean towel. Remember not to insert anything into your ear canal, and if you experience any pain or discomfort, seek medical advice.
 
-Marketing Pitch: Try Pretty Little Things Honey Oat Soap for gentle and effective ear cleaning. Made with natural ingredients, this soap is perfect for sensitive skin.
+Marketing Pitch: Try Pretty Little Things Honey Oat Soap for gentle and effective ear cleaning. Made with natural ingredients, this soap is perfect for sensitive skin. https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
 ##  How Does Soap Expire?
 
 Like most products, soap also has an expiration date. The main reason soap expires is that the natural oils and fats used in soap making can go rancid over time, making the soap ineffective. The expiration date for soap can vary depending on the ingredients used and the storage conditions. However, most soaps have a shelf life of around 2-3 years. Pretty Little Things Bath Salt is an excellent example of a soap with a shorter expiration date. Made without preservatives and designed to be used within six months, this bath salt is perfect for anyone who loves a luxurious bath experience. So, always check the expiration date of your soap before using it and avoid using expired soaps.
 
-Marketing Pitch: Try Pretty Little Things Bath Salt for a luxurious and effective bath experience. Made without preservatives and with a short expiration date, this bath salt is perfect for anyone who loves a natural approach to skincare.
+Marketing Pitch: Try Pretty Little Things Bath Salt for a luxurious and effective bath experience. Made without preservatives and with a short expiration date, this bath salt is perfect for anyone who loves a natural approach to skincare. https://www.etsy.com/in-en/listing/1367990432/muscle-relaxing-pain-ache-relief-bath
 
 ##  What Soap for Eczema?
 
 Eczema is a skin condition that causes redness, itching, and inflammation. People with eczema need to be careful when choosing soaps as many contain harsh ingredients that can further irritate the skin. Pretty Little Things Coconut Milk Rose Clay Soap is an excellent option for people with eczema. Made with natural ingredients like coconut milk and rose clay, this soap is gentle and moisturizing, making it perfect for sensitive skin. It also helps to reduce inflammation and remove harmful toxins, which can alleviate eczema symptoms. So, if you have eczema, make sure to choose a soap that is gentle and moisturizing, like Pretty Little Things Coconut Milk Rose Clay Soap.
 
-Marketing Pitch: Pretty Little Things Coconut Milk Rose Clay Soap is perfect for people with eczema. Made with natural ingredients, this soap is gentle and moisturizing, making it the perfect choice for sensitive skin.
+Marketing Pitch: Pretty Little Things Coconut Milk Rose Clay Soap is perfect for people with eczema. Made with natural ingredients, this soap is gentle and moisturizing, making it the perfect choice for sensitive skin. https://www.amazon.in/dp/B0BTWXCV5Y?ref=myi_title_dp
 
 Blog 4: What Soap for Itchy Skin?
 
 Itchy skin can be caused by a variety of factors, including dryness, allergies, and irritants. If you have itchy skin, it's important to choose a soap that is gentle and moisturizing. Pretty Little Things Blueberry Waffle Soap is an excellent option for people with itchy skin. Made with natural ingredients like cocoa butter, shea butter, and mango butter, this soap is gentle and moisturizing, making it perfect for dry and itchy skin. It's also free from harsh chemicals that can irritate the skin, making it ideal for people with sensitive skin. So, if you're looking for a soap that will help soothe and moisturize your itchy skin, try Pretty Little Things Blueberry Waffle Soap.
 
-Marketing Pitch: Pretty Little Things Blueberry Waffle Soap is perfect for people with itchy skin. Made with natural ingredients, this soap is gentle and moisturizing, 
+Marketing Pitch: Pretty Little Things Blueberry Waffle Soap is good for people with itchy skin . Made with natural ingredients (Cocoa Butter, Shea Butter, and Mango Butter), this soap is gentle and moisturizing,  https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040799
 
 
 ## How soap was discovered?
@@ -205,10 +205,10 @@ Link: https://www.amazon.in/dp/B0BTW8ZTZW?ref=myi_title_dp
 
 ##  What soap is best for whitening?
 
-Everyone wants to have bright and glowing skin. One way to achieve this is by using whitening soap. But which soap is the best for this purpose? The answer is the Honey Oat Soap from Pretty Little Things. This soap contains oat milk and honey, which naturally brighten and soothe the skin. Oatmeal works as a natural cleanser and gently exfoliates the skin, leaving it looking fresh and revived. Milk has a unique ability to remove impurities and dead skin cells with lactic acid. This soap is handmade, paraben-free, and SLS-free, making it gentle on the skin. However, always perform a patch test because different soaps react differently on various skin types. Get the Honey Oat Soap from Pretty Little Things for a brighter, more radiant complexion.
+Everyone wants to have bright and glowing skin. One way to achieve this is by using whitening soap. But which soap is the best for this purpose? The answer is the Honey Oat Soap from Pretty Little Things. This soap contains oat milk and honey, which naturally brighten and soothe the skin. Oatmeal works as a natural cleanser and gently exfoliates the skin, leaving it looking fresh and revived. Milk has a unique ability to remove impurities and dead skin cells with lactic acid. This soap is handmade, paraben-free, and SLS-free, making it gentle on the skin. However, always perform a patch test because different soaps react differently on various skin types. Get the Honey Oat Soap from Pretty Little Things for a brighter, more radiant complexion. https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
 ##  How soap was made in the old days?
 
 In the old days, soap was made using a simple process that involved only a few ingredients. The first step was to mix animal fat, such as tallow or lard, with a solution of lye and water. The mixture was then boiled in a large pot until it thickened and became soap. The soap was then poured into molds and left to harden for several weeks. Once it was hardened, the soap was cut into bars and left to dry for several more weeks.
 
-Today, soap making has become more complex, with a wide variety of ingredients and techniques available. However, Pretty Little Things still use the traditional handmade process to make their soap. Their soaps are made without preservatives and expire in 6 months. Try their luxurious and unique soaps such as the rose clay soap, made with coconut milk and rose clay that nourishes and softens the skin, or the blueberry waffle soap that is made with cocoa butter, shea butter, and mango butter, making it gentle on the skin. Get these handmade soaps from Pretty Little Things for a luxurious and unique bathing experience.
+Today, soap making has become more complex, with a wide variety of ingredients and techniques available. However, Pretty Little Things still use the traditional handmade process to make their soap. Their soaps are made without preservatives and expire in 6 months. Try their luxurious and unique soaps such as the rose clay soap, made with coconut milk and rose clay that nourishes and softens the skin, or the blueberry waffle soap that is made with cocoa butter, shea butter, and mango butter, making it gentle on the skin. Get these handmade soaps from Pretty Little Things for a luxurious and unique bathing experience. Buy them here https://www.amazon.in/dp/B0BTWXCV5Y?ref=myi_title_dp
