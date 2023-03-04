@@ -14,6 +14,8 @@ The Honey Oat Soap is an excellent option for those looking for a soap that can 
 
 You can purchase our Honey Oat Soap through this link: https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
+Answered: https://www.quora.com/What-is-the-best-skin-whitening-soap-available-in-India
+
 ## What is the Best Soap for Oily Skin?
 
 If you have oily skin, it is essential to choose a soap that can help balance the natural oils in your skin without over-drying it. The rose clay soap is a great option for those with oily skin. It is made with coconut milk and rose clay, which helps to reduce inflammation and tighten pores.
@@ -22,12 +24,18 @@ Coconut milk is an excellent moisturizer that helps to hydrate the skin without 
 
 You can purchase our Rose Clay Soap through this link: https://www.amazon.in/dp/B0BTWXCV5Y?ref=myi_title_dp
 
+
+Answered: https://www.quora.com/What-are-some-good-brands-of-soap-for-oily-and-rough-skin-in-India/answer/Karan-Bhandari?prompt_topic_bio=1
+
 ## What is the Best Soap?
 
 When it comes to choosing the best soap, it depends on your skin type and your specific needs. If you have sensitive skin, it is essential to choose a soap that is gentle and does not contain harsh ingredients. On the other hand, if you have oily skin, you may need a soap that can help balance the natural oils in your skin.
 
 At Pretty Little Things, we offer a variety of handmade soaps that are designed to cater to different skin types and needs. Our Blueberry Waffle Soap, Coffee Cheesecake Soap, and Donut Soap are great options for those looking for unique offering. Visit https://prettylittlethingsab.etsy.com/
 
+
+Answered:
+https://www.quora.com/Which-body-soap-is-best-in-India
 
 ## Why Homemade Soap?
 
@@ -44,6 +52,10 @@ In conclusion, homemade soap is a great alternative to commercial soaps. It is n
 Market product: Honey Oat Soap
 Link: https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
+
+Answered:
+https://www.quora.com/Where-can-one-buy-handmade-soaps-in-India/answer/Karan-Bhandari?prompt_topic_bio=1
+
 ## What Soap is Bad for Skin?
 
 Soap is an essential part of our daily routine. It helps to keep us clean and healthy. However, some types of soap can be bad for our skin. So, what soap is bad for skin?
@@ -59,7 +71,7 @@ In conclusion, soap that contains triclosan, sulfates, and synthetic fragrances 
 Market product: Honey Oat Soap
 Link: https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
-
+Answered: https://www.quora.com/Is-normal-soap-bad-for-the-skin/answer/Karan-Bhandari?prompt_topic_bio=1
 
 ## Why Soap is Disease-Preventing?
 
@@ -67,17 +79,26 @@ Soap is a disease-preventing essential. Germs are easily spread through contact 
 
 Link to Honey Oat Soap: https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
+Answered: https://www.quora.com/Why-is-the-coronavirus-not-having-a-vaccine-but-can-be-easily-killed-by-a-simple-hand-sanitizer-or-soap
+
+
 What Soap is Eco-Friendly?
 
 Eco-friendly soaps are gentle on the skin and the environment. They are made with natural and biodegradable ingredients and come in recyclable packaging. Our Blueberry Waffle Soap, made with cocoa butter, shea butter, and mango butter, is gentle on the skin and the environment. It's perfect for those who want to indulge in luxury bathing without harming the planet.
 
 Link to Blueberry Waffle Soap: https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040799
 
+Answered
+https://www.quora.com/What-is-the-most-eco-friendly-soap/answer/Karan-Bhandari?prompt_topic_bio=1
+
 ## Why Soap Dries Skin?
 
 Soap can dry the skin if it's too harsh or used too frequently. Soap strips away the skin's natural oils, which can lead to dryness, itching, and irritation. Our Rose Clay Soap, made with coconut milk and rose clay, gently cleanses and nourishes the skin, leaving it soft and smooth.
 
 Link to Rose Clay Soap: https://www.amazon.in/dp/B0BTWXCV5Y?ref=myi_title_dp
+
+answered:
+https://www.quora.com/What-is-the-best-soap-for-dry-skin/answer/Karan-Bhandari?prompt_topic_bio=1
 
 ## Why Soap Cannot Be Used in Hard Water?
 
@@ -91,6 +112,8 @@ Soap molecules have a hydrophilic (water-loving) end and a hydrophobic (water-re
 
 Link to Coffee Cheesecake Soap: https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040801
 
+Answered
+https://www.quora.com/How-does-dish-soap-dissolve-oil-and-grease
 
 ## Why does soap dry out?
 
@@ -112,6 +135,9 @@ Link: https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
 Description: This handmade soap is enriched with oat milk and honey, which soothes and brightens the skin naturally. It also gently exfoliates the skin, leaving it looking fresh and revived. The soap is free from parabens and SLS, making it gentle on the skin. Its unique bee-hive shape and elegant design make it perfect for luxury bathing and adding a touch of elegance to any bathroom.
 
+Answered
+https://www.quora.com/unanswered/Why-are-soap-bars-better
+
 ## Why soap burn eyes?
 
 Soap can cause a burning sensation in the eyes due to the irritation caused by its ingredients. Some soap formulations may contain harsh chemicals, fragrances or preservatives that can irritate the eyes. It's important to avoid getting soap in the eyes and to rinse them thoroughly with water if contact occurs. Pretty Little Things Rose Clay Soap is a gentle and mild soap that is perfect for sensitive and mature skin.
@@ -122,6 +148,8 @@ Link: https://www.amazon.in/dp/B0BTWXCV5Y?ref=myi_title_dp
 
 Description: This handmade soap is enriched with coconut milk and rose clay, which nourishes and softens the skin. It helps to reduce inflammation, remove dead skin cells, tighten pores, fade hyperpigmentation and remove toxins. The soap is free from parabens and SLS, making it gentle on the skin. Its unique rose shape and elegant design make it perfect for luxury bathing and adding a touch of elegance to any bathroom.
 
+Answered
+https://www.quora.com/Why-does-soap-burn-our-eyes-but-not-cuts-and-scrapes
 
 ## Why does soap solution appear cloudy?
 
@@ -129,11 +157,18 @@ Soap solution can appear cloudy due to the presence of tiny air bubbles or impur
 
 Market product: Pretty Little Things Bath Salt is a great addition to any bath routine. Its muscle-relaxing and pain-relieving properties can help soothe aching muscles and improve circulation, while its detoxifying properties can help remove impurities and leave your skin feeling refreshed and renewed. Buy now: https://www.amazon.in/dp/B0BTW8ZTZW?ref=myi_title_dp
 
+Answered:
+https://www.quora.com/Why-does-the-soap-of-any-color-forms-the-foam-of-white-color-only/answer/Karan-Bhandari?prompt_topic_bio=1
+
 ## Why does soap remove dirt?
 
 Soap molecules are made up of two parts: a hydrophobic tail and a hydrophilic head. The hydrophobic tail repels water and is attracted to oils and dirt, while the hydrophilic head is attracted to water. When soap is applied to a surface, the hydrophobic tail attaches to dirt and oil, lifting it away from the surface. The hydrophilic head then surrounds the dirt and oil, creating tiny droplets that can be rinsed away with water. This process, called emulsification, allows soap to effectively remove dirt and oil from surfaces.
 
 Market product: Pretty Little Things Honey Oat Soap is a gentle and effective way to cleanse your skin. Its natural ingredients, including oat milk and honey, work together to remove impurities and leave your skin feeling soft and smooth. Plus, its handmade, paraben-free formula makes it safe and gentle for all skin types. Buy now: https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
+
+Answer: https://www.quora.com/Why-does-soap-remove-dirt/answer/Karan-Bhandari?prompt_topic_bio=1
+
+
 
 ## Why use sugar soap?
 
@@ -154,6 +189,10 @@ Soap needs to cure because it is made using a chemical reaction called saponific
 
 Looking for a gentle and moisturizing soap for your skin? Try our Honey Oat Soap. This handmade soap is enriched with oat milk and honey, which soothe and brighten the skin naturally. It is also free from parabens and SLS, making it a great choice for sensitive skin. Click the link to buy now: https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
+
+Answered
+https://www.reddit.com/r/soapmaking/comments/enz79m/why_does_soap_need_to_cure/
+
 ## Why was Lifebuoy soap banned in the US?
 
 Lifebuoy soap was banned in the US because it contained triclocarban, which is a chemical that has been linked to hormone disruption and antibiotic resistance. Triclocarban is an antibacterial agent that was commonly used in soaps and other personal care products to kill germs and prevent infections. However, recent studies have shown that triclocarban can have harmful effects on human health and the environment. In 2016, the US FDA issued a ban on triclocarban and 18 other antibacterial ingredients in over-the-counter soaps and washes, citing a lack of evidence that they are safe and effective.
@@ -161,12 +200,16 @@ Lifebuoy soap was banned in the US because it contained triclocarban, which is a
 Looking for a safe and gentle soap for your skin? Try our Coconut Milk Rose Clay Soap. This handmade soap is enriched with coconut milk and rose clay, which nourish and soothe the skin naturally. It is also free from parabens and SLS, making it a great choice for sensitive skin. Click the link to buy now: https://www.amazon.in/dp/B0BTWXCV5Y?ref=myi_title_dp
 
 
+Answered:
+https://www.quora.com/Why-is-Lifebuoy-soap-banned-in-the-US/answer/Karan-Bhandari?prompt_topic_bio=1
+
 ## How to Soap Eyebrows?
 
 Soap brows are the latest trend in eyebrow styling. To achieve this look, all you need is a spoolie brush, some water, and a bar of soap. First, wet the spoolie brush and rub it on the soap bar. Then, brush your eyebrows upward and outward, using the soap to hold them in place. This technique will give you a natural, feathered look that lasts all day. For best results, use a natural soap like Pretty Little Things' Honey Oat Soap, which is free from preservatives and harsh chemicals. It's gentle on the skin and will keep your eyebrows looking great all day long.
 
 Market: Honey Oat Soap - https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp - Pretty Little Things' Honey Oat Soap is the perfect soap for achieving the soap brow look. It's gentle on the skin and will keep your eyebrows looking great all day long.
 
+Answered: https://www.quora.com/How-do-I-block-out-eyebrows-with-soap/answer/Karan-Bhandari?prompt_topic_bio=1
 
 ##  How to Soap Ear?
 
@@ -174,11 +217,18 @@ Cleaning your ears is an essential part of personal hygiene. But, did you know t
 
 Marketing Pitch: Try Pretty Little Things Honey Oat Soap for gentle and effective ear cleaning. Made with natural ingredients, this soap is perfect for sensitive skin. https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
+Answered: https://www.quora.com/How-do-you-personally-clean-your-ears-and-do-you-use-soap-on-your-pinna/answer/Karan-Bhandari?prompt_topic_bio=1
+
 ##  How Does Soap Expire?
 
 Like most products, soap also has an expiration date. The main reason soap expires is that the natural oils and fats used in soap making can go rancid over time, making the soap ineffective. The expiration date for soap can vary depending on the ingredients used and the storage conditions. However, most soaps have a shelf life of around 2-3 years. Pretty Little Things Bath Salt is an excellent example of a soap with a shorter expiration date. Made without preservatives and designed to be used within six months, this bath salt is perfect for anyone who loves a luxurious bath experience. So, always check the expiration date of your soap before using it and avoid using expired soaps.
 
 Marketing Pitch: Try Pretty Little Things Bath Salt for a luxurious and effective bath experience. Made without preservatives and with a short expiration date, this bath salt is perfect for anyone who loves a natural approach to skincare. https://www.etsy.com/in-en/listing/1367990432/muscle-relaxing-pain-ache-relief-bath
+
+Answer:
+https://www.quora.com/Why-does-soap-have-an-expiration-date-How-does-soap-expire-What-happens-to-expired-soap/answer/Karan-Bhandari?prompt_topic_bio=1
+
+https://www.reddit.com/r/soapmaking/comments/kg2eyh/does_a_soap_expire/
 
 ##  What Soap for Eczema?
 
@@ -186,12 +236,20 @@ Eczema is a skin condition that causes redness, itching, and inflammation. Peopl
 
 Marketing Pitch: Pretty Little Things Coconut Milk Rose Clay Soap is perfect for people with eczema. Made with natural ingredients, this soap is gentle and moisturizing, making it the perfect choice for sensitive skin. https://www.amazon.in/dp/B0BTWXCV5Y?ref=myi_title_dp
 
+Answer:
+https://www.quora.com/What-soap-is-best-for-eczema/answer/Karan-Bhandari?prompt_topic_bio=1
+
+https://www.reddit.com/r/skin/comments/yubu24/best_soap_for_eczema/
+
 Blog 4: What Soap for Itchy Skin?
 
 Itchy skin can be caused by a variety of factors, including dryness, allergies, and irritants. If you have itchy skin, it's important to choose a soap that is gentle and moisturizing. Pretty Little Things Blueberry Waffle Soap is an excellent option for people with itchy skin. Made with natural ingredients like cocoa butter, shea butter, and mango butter, this soap is gentle and moisturizing, making it perfect for dry and itchy skin. It's also free from harsh chemicals that can irritate the skin, making it ideal for people with sensitive skin. So, if you're looking for a soap that will help soothe and moisturize your itchy skin, try Pretty Little Things Blueberry Waffle Soap.
 
 Marketing Pitch: Pretty Little Things Blueberry Waffle Soap is good for people with itchy skin . Made with natural ingredients (Cocoa Butter, Shea Butter, and Mango Butter), this soap is gentle and moisturizing,  https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040799
 
+
+Answered:
+https://www.quora.com/What-bathing-soap-is-preferred-for-the-body-while-you-are-itchy/answer/Karan-Bhandari?prompt_topic_bio=1
 
 ## How soap was discovered?
 
