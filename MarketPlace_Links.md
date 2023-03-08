@@ -21,7 +21,8 @@
 
 # Others
 - Etsy https://prettylittlethingsab.etsy.com
-- Indymandi https://indymandi.com/visit/store/152
+- Indymandi https://indymandi.com/visit/store/pretty-little-things-by-avnikkaa
+- Vibe city https://www.vibecity.com/prettylittlethings24?utm_source=seller_sharing 
 
 # Etsy
 - [Wax Tablets, 100% soy wax, Hand Poured, Fragrance infused (Pack Of 2)](https://www.etsy.com/in-en/listing/1340679489/wax-tablets-100-soy-wax-hand-poured)
