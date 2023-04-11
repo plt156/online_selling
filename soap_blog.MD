@@ -6,9 +6,9 @@ One of the advantages of liquid soap is that it is easy to use and less messy th
 
 Our Bath Salt is a great product to use after washing your hands with liquid soap. It is a muscle relaxing, pain and ache relief bath salt that helps in muscle relaxing, pain relief, improved blood circulation, better circulation, stress relieving, exfoliation, reduces inflammation, detoxifying bath, and luxurious bathing. You can purchase it through this link: https://www.amazon.in/dp/B0BTW8ZTZW?ref=myi_title_dp
 
-## What is the Best Soap for Skin Whitening?
+## What is the Best Soap for Skin Lightening?
 
-Skin whitening soaps have become increasingly popular over the years, and there are many products available in the market that claim to lighten the skin tone. However, it is essential to choose a soap that is safe for your skin and does not contain harmful ingredients.
+Skin Lightening soaps have become increasingly popular over the years, and there are many products available in the market that claim to lighten the skin tone. However, it is essential to choose a soap that is safe for your skin and does not contain harmful ingredients.
 
 The Honey Oat Soap is an excellent option for those looking for a soap that can help lighten their skin tone. It is made with oat milk and honey, which soothes and exfoliates the skin. The oat milk in the soap is a natural skin brightener that helps to reduce dark spots and uneven skin tone. Honey, on the other hand, is a natural moisturizer that hydrates the skin and helps to reduce fine lines and wrinkles.
 
@@ -260,10 +260,6 @@ Looking for a natural way to pamper your skin while getting rid of impurities? T
 Link: https://www.amazon.in/dp/B0BTW8ZTZW?ref=myi_title_dp
 
 
-
-##  What soap is best for whitening?
-
-Everyone wants to have bright and glowing skin. One way to achieve this is by using whitening soap. But which soap is the best for this purpose? The answer is the Honey Oat Soap from Pretty Little Things. This soap contains oat milk and honey, which naturally brighten and soothe the skin. Oatmeal works as a natural cleanser and gently exfoliates the skin, leaving it looking fresh and revived. Milk has a unique ability to remove impurities and dead skin cells with lactic acid. This soap is handmade, paraben-free, and SLS-free, making it gentle on the skin. However, always perform a patch test because different soaps react differently on various skin types. Get the Honey Oat Soap from Pretty Little Things for a brighter, more radiant complexion. https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp
 
 ##  How soap was made in the old days?
 
