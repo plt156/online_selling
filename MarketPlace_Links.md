@@ -25,10 +25,8 @@
 - Vibe city https://www.vibecity.com/prettylittlethings24?utm_source=seller_sharing 
 
 # Etsy
+### Candles
 - [Wax Tablets, 100% soy wax, Hand Poured, Fragrance infused (Pack Of 2)](https://www.etsy.com/in-en/listing/1340679489/wax-tablets-100-soy-wax-hand-poured)
-- [Massage oil candle](https://www.etsy.com/in-en/listing/1475587479/massage-oil-candle-destressing-reusable?click_key=ac5de1a41770f82f3fe932e0a73e60fa791f2fa1%3A1475587479&click_sum=8169e5cd&ref=shop_home_active_9&frs=1)
-- [Calming bath salt](https://www.etsy.com/in-en/listing/1367990432/muscle-relaxing-pain-ache-relief-bath)
-- [Nail oil](https://www.etsy.com/in-en/listing/1419631849/nail-growth-oil-30-ml-enriched-with)
 - [Large Candle Urli, 100% soy wax, Hand Poured, Fragrance infused](https://www.etsy.com/in-en/listing/1337351804/large-candle-urli-100-soy-wax-hand)
 - [Mini Candle Urli](https://www.etsy.com/in-en/listing/1351159733/mini-candle-urli-100-soy-wax-hand-poured)
 - [Dough Bowl Candle](https://www.etsy.com/in-en/listing/1351159049/dough-bowl-candle-100-soy-wax-hand)
@@ -41,6 +39,15 @@
 - [Love candle](https://www.etsy.com/in-en/listing/1479901535/love-candle-matt-100-soy-wax-hand-poured?click_key=a3af49e33a2a4759dfc25b19d3dfd85ef3da86c9%3A1479901535&click_sum=0c597aff&ref=shop_home_active_6&frs=1)
 - [Scented Birthday Glitter Candle](https://www.etsy.com/in-en/listing/1478211831/scented-birthday-glitter-candle-100-soy?click_key=54978e20337c30be38aa35892f09239882636555%3A1478211831&click_sum=99bfeaeb&ref=shop_home_active_4&frs=1)
 - [Concrete Candle](https://www.etsy.com/in-en/listing/1458103420/scented-concrete-slab-candle-100-soy-wax?click_key=240eb4cb8ac103a6c038056f003552932a08afae%3A1458103420&click_sum=75ebd399&ref=shop_home_active_11&frs=1)
+- [Scented Frosted Candle, Le Collection - Le Noir, Le Bleu, Le Blanc](https://www.etsy.com/in-en/listing/1472296795/scented-frosted-candle-le-collection-le?click_key=9a6ee0b72490211aef167423ae8493376fef1530%3A1472296795&click_sum=66fd7291&ref=shop_home_active_13&frs=1)
+
+### Luxury bathing
+- [Massage oil candle](https://www.etsy.com/in-en/listing/1475587479/massage-oil-candle-destressing-reusable?click_key=ac5de1a41770f82f3fe932e0a73e60fa791f2fa1%3A1475587479&click_sum=8169e5cd&ref=shop_home_active_9&frs=1)
+- [Calming bath salt](https://www.etsy.com/in-en/listing/1367990432/muscle-relaxing-pain-ache-relief-bath)
+- [Nail oil](https://www.etsy.com/in-en/listing/1419631849/nail-growth-oil-30-ml-enriched-with)
+- [Avocado Hand Cream](https://www.etsy.com/in-en/listing/1421080740/avocado-hand-cream-100ml-deeply-nourish?click_key=eda0a331a85ad075a83bdd0d7dc3312c64981fd3%3A1421080740&click_sum=3560ed19&ref=shop_home_active_15&frs=1)
+
+
 
 ### Print
 - [Gratitude Journal](https://www.etsy.com/in-en/listing/1367961050/daily-gratitude-journal-diary)
