@@ -26,7 +26,7 @@
 
 # Etsy
 - [Wax Tablets, 100% soy wax, Hand Poured, Fragrance infused (Pack Of 2)](https://www.etsy.com/in-en/listing/1340679489/wax-tablets-100-soy-wax-hand-poured)
-- [Gratitude Journal](https://www.etsy.com/in-en/listing/1367961050/daily-gratitude-journal-diary)
+- [Massage oil candle](https://www.etsy.com/in-en/listing/1475587479/massage-oil-candle-destressing-reusable?click_key=ac5de1a41770f82f3fe932e0a73e60fa791f2fa1%3A1475587479&click_sum=8169e5cd&ref=shop_home_active_9&frs=1)
 - [Calming bath salt](https://www.etsy.com/in-en/listing/1367990432/muscle-relaxing-pain-ache-relief-bath)
 - [Nail oil](https://www.etsy.com/in-en/listing/1419631849/nail-growth-oil-30-ml-enriched-with)
 - [Large Candle Urli, 100% soy wax, Hand Poured, Fragrance infused](https://www.etsy.com/in-en/listing/1337351804/large-candle-urli-100-soy-wax-hand)
@@ -37,14 +37,32 @@
 - [Matt jar candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3212736066)
 - [Birthday candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3228092615)
 - [feel good candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3266897477)
+- [Scented Triple Wick Holographic Matki Candle](https://www.etsy.com/in-en/listing/1476545677/scented-triple-wick-holographic-matki?click_key=cd7bbc2aafa03507d29386145f551bb980d5f01a%3A1476545677&click_sum=477ed966&ref=shop_home_active_5&frs=1)
+- [Love candle](https://www.etsy.com/in-en/listing/1479901535/love-candle-matt-100-soy-wax-hand-poured?click_key=a3af49e33a2a4759dfc25b19d3dfd85ef3da86c9%3A1479901535&click_sum=0c597aff&ref=shop_home_active_6&frs=1)
+- [Scented Birthday Glitter Candle](https://www.etsy.com/in-en/listing/1478211831/scented-birthday-glitter-candle-100-soy?click_key=54978e20337c30be38aa35892f09239882636555%3A1478211831&click_sum=99bfeaeb&ref=shop_home_active_4&frs=1)
+- [Concrete Candle](https://www.etsy.com/in-en/listing/1458103420/scented-concrete-slab-candle-100-soy-wax?click_key=240eb4cb8ac103a6c038056f003552932a08afae%3A1458103420&click_sum=75ebd399&ref=shop_home_active_11&frs=1)
+
+### Print
+- [Gratitude Journal](https://www.etsy.com/in-en/listing/1367961050/daily-gratitude-journal-diary)
+- [Hardbound Plain Notebooks, Journal, Diary, Writing Pad, Reflection Pad](https://www.etsy.com/in-en/listing/1458099728/hardbound-plain-notebooks-journal-diary?click_key=f6bc5eeff9ae50ab7617e7236027fe33c3d91e6c%3A1458099728&click_sum=9e8920f0&ref=shop_home_active_12&frs=1)
+
+### Soaps
 - [blueberry waffle soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040799)
 - [coffee cheesecake soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040801)
 - [donut soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3252611648)
 - [Oats and Honey soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040807)
 - [rose clay soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3252611652)
 
+### Resin
+[Handmade Resin Bookmarks](https://www.etsy.com/in-en/listing/1475590495/handmade-resin-bookmarks-pack-of-2?click_key=a61c4c86c1843ccbe513cbb1522edc01a4bdbf2d%3A1475590495&click_sum=1854f28d&ref=shop_home_active_3)
+
+
 ### Hampers
 - [Mother's Day Hamper](https://www.etsy.com/in-en/listing/1451733846/mothers-day-hamper-candle-notebook-mug?variation0=3451964421)
-- [Illu 2](https://www.etsy.com/in-en/listing/1451733846/mothers-day-hamper-candle-notebook-mug?variation0=3438057282)
+- [Illuminate 2](https://www.etsy.com/in-en/listing/1451733846/mothers-day-hamper-candle-notebook-mug?variation0=3438057282)
 - [enhance](https://www.etsy.com/in-en/listing/1451733846/mothers-day-hamper-candle-notebook-mug?variation0=3451964425)
-- [illu 1](https://www.etsy.com/in-en/listing/1451733846/mothers-day-hamper-candle-notebook-mug?variation0=3438057286)
+- [illuminate 1](https://www.etsy.com/in-en/listing/1451733846/mothers-day-hamper-candle-notebook-mug?variation0=3438057286)
+- [Vertical Bliss Birthday Hamper](https://www.etsy.com/in-en/listing/1479905601/vertical-bliss-birthday-hamper-candle?click_key=17a450a60265b8386827396caad92d39638c863b%3A1479905601&click_sum=e82c69ef&ref=shop_home_active_2&frs=1)
+- [Assorted Candle Hamper](https://www.etsy.com/in-en/listing/1479909145/assorted-candle-hamper-with-6-types-of?click_key=cbd44a3d5dc0954d346ac914c1affc80adea1e08%3A1479909145&click_sum=ad68726c&ref=shop_home_active_7&frs=1)
+- [Love Hamper/Valentine Hamper](https://www.etsy.com/in-en/listing/1478225607/love-hamper-2-matt-jar-candles?click_key=1a00895e00ffc90ea4d8958a8acf6082f81b70d6%3A1478225607&click_sum=30b3d472&ref=shop_home_active_8&frs=1)
+- [Noir Birthday Hamper](https://www.etsy.com/in-en/listing/1462358016/noir-birthday-hamper-candle-notebook-ck?click_key=8b6a05aef463c581597e5ec4411cc8519b12c6a6%3A1462358016&click_sum=c90f662f&ref=shop_home_active_10&frs=1)
