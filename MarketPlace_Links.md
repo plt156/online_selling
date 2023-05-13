@@ -40,6 +40,7 @@
 - [Scented Birthday Glitter Candle](https://www.etsy.com/in-en/listing/1478211831/scented-birthday-glitter-candle-100-soy?click_key=54978e20337c30be38aa35892f09239882636555%3A1478211831&click_sum=99bfeaeb&ref=shop_home_active_4&frs=1)
 - [Concrete Candle](https://www.etsy.com/in-en/listing/1458103420/scented-concrete-slab-candle-100-soy-wax?click_key=240eb4cb8ac103a6c038056f003552932a08afae%3A1458103420&click_sum=75ebd399&ref=shop_home_active_11&frs=1)
 - [Scented Frosted Candle, Le Collection - Le Noir, Le Bleu, Le Blanc](https://www.etsy.com/in-en/listing/1472296795/scented-frosted-candle-le-collection-le?click_key=9a6ee0b72490211aef167423ae8493376fef1530%3A1472296795&click_sum=66fd7291&ref=shop_home_active_13&frs=1)
+- [Double Wick Holographic](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?click_key=f47d00b9befde164560cfbad2bf92e1d1ae14058%3A1337173662&click_sum=bd78c8b7&ref=shop_home_active_22&frs=1&variation0=3461271710)
 
 ### Luxury bathing
 - [Massage oil candle](https://www.etsy.com/in-en/listing/1475587479/massage-oil-candle-destressing-reusable?click_key=ac5de1a41770f82f3fe932e0a73e60fa791f2fa1%3A1475587479&click_sum=8169e5cd&ref=shop_home_active_9&frs=1)
