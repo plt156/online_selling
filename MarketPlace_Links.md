@@ -65,7 +65,7 @@ https://bit.ly/flipkartplt156
 ### Candles
 - [Wax Tablets, 100% soy wax, Hand Poured, Fragrance infused (Pack Of 2)](https://www.etsy.com/in-en/listing/1340679489/wax-tablets-100-soy-wax-hand-poured)
 - [Large Candle Urli, 100% soy wax, Hand Poured, Fragrance infused](https://www.etsy.com/in-en/listing/1337351804/large-candle-urli-100-soy-wax-hand)
-- [Mini Candle Urli](https://www.etsy.com/in-en/listing/1351159733/mini-candle-urli-100-soy-wax-hand-poured)
+- [Mini Candle Urli](https://www.etsy.com/in-en/listing/1337351804/large-candle-urli-100-soy-wax-hand?click_key=e2913aae00853e4afa297a8b3294355426518efc%3A1337351804&click_sum=32278ae1&ref=shop_home_active_21&frs=1&variation0=3460964754)
 - [Dough Bowl Candle](https://www.etsy.com/in-en/listing/1351159049/dough-bowl-candle-100-soy-wax-hand)
 - [Holographic candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3228092613)
 - [Amber jar candle](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?variation1=3212736064)
