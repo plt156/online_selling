@@ -1,4 +1,7 @@
 # Amazon
+
+https://bit.ly/amazonplt
+
 - [Ornamental Wax Tablets](https://www.amazon.in/dp/B0BTVQYM55?ref=myi_title_dp)
 - [Bath Salt](https://www.amazon.in/dp/B0BTW8ZTZW?ref=myi_title_dp)
 - [Honey Oat Soap](https://www.amazon.in/dp/B0BTWWMFJJ?ref=myi_title_dp)
@@ -10,7 +13,18 @@
 
 [Seller Products](https://www.amazon.in/s?me=A3AKUQ1VSVC87D&marketplaceID=A21TJRUUN4KGV)
 
+## Pending Amazon
+- Massage oil candle
+- Avocado Hand Cream
+- Handmade Resin Bookmarks
+- Double Wick Holographic
+- Illuminate 2 Hamper
+- Enhance Hamper
+
 # Flipkart
+
+https://bit.ly/flipkartplt156
+
 - [pack of 3 wax tablet ](https://www.flipkart.com/avnika-bhandari-scented-wax-tablet-pack-3-candle/p/itm451346119d3c4?pid=CANGKDGGGCBYHUSX)
 - [pack of 1 wax tablet ](https://www.flipkart.com/avnika-bhandari-wax-tablets-100-soy-wax-hand-poured-fragrance-infused-candle/p/itm1445641ae3775?pid=CANGKTT5XTYBW7VZ)
 - [dough bowl candle ](https://www.flipkart.com/avnika-bhandari-dough-bowl-candle/p/itmc0ae74fa9d72f?pid=CANGKDG4NQZTFZUT)
@@ -18,6 +32,24 @@
 - [mini urli](https://www.flipkart.com/avnika-bhandari-mini-candle-urli-100-soy-wax-hand-poured-fragrance-infused/p/itma0f9432080d27?pid=CANGKDHEY6JWZ9V8)
 - [amber candle](https://www.flipkart.com/avnika-bhandari-scented-amber-jar-candle-mood-elevation-room-freshner-luxury-home-decor/p/itm08496a4312a72?pid=CANGM4P8GAPYMSAZ)
 - [holographic candle](https://www.flipkart.com/avnika-bhandari-scented-holographic-candle/p/itm229c7dc6e2548?pid=CANGKDFMGCPCHKYS)
+- [Metallic Candle Bowl Candle](https://www.flipkart.com/avnika-bhandari-scented-hand-poured-soy-wax-metallic-candle-bowl/p/itm173afa0592918?pid=CANGKTRHW8TEXN3R&lid=LSTCANGKTRHW8TEXN3RIODV6B&marketplace=FLIPKART&q=avnika+bhandari&store=search.flipkart.com&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=e455a097-75ec-4b02-8a05-1961b2c0e6a1.CANGKTRHW8TEXN3R.SEARCH&ppt=sp&ppn=sp&ssid=ncc0ibw1mksb66801684024255076&qH=5a984282711007d5)
+
+## Pending Flipkart
+- Matt jar candle
+- Birthday candle
+- feel good candle
+- Scented Triple Wick Holographic Matki Candle
+- Love candle
+- Scented Birthday Glitter Candle
+- Concrete Candle
+- Scented Frosted Candle, Le Collection - Le Noir, Le Bleu, Le Blanc
+- Double Wick Holographic
+- Hardbound Plain Notebooks, Journal, Diary, Writing Pad, Reflection Pad
+- Illuminate 2 Hamper
+- enhance hamper
+- illuminate 1 hamper
+- Vertical Bliss Birthday Hamper
+- Assorted Candle Hamper
 
 # Others
 - Etsy https://prettylittlethingsab.etsy.com
