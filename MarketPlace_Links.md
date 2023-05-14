@@ -10,6 +10,11 @@ https://bit.ly/amazonplt
 - [Dough bowl candle](https://www.amazon.in/dp/B0BW16C9H7?ref=myi_title_dp)
 - [Amber candle](https://www.amazon.in/dp/B0BVH8PZM1?ref=myi_title_dp)
 - [nail oil](https://www.amazon.in/dp/B0BW4N3DLT?ref=myi_title_dp)
+- [Hardbound colourful notebook](https://www.amazon.in/Hardbound-Notebooks-Reflection-Stationary-Organizer/dp/B0C4TVJCRX/ref=sr_1_4?m=A3AKUQ1VSVC87D&marketplaceID=A21TJRUUN4KGV&qid=1684024903&s=merchant-items&sr=1-4)
+- [Hardbound Girl boss notebook](https://www.amazon.in/dp/B0C4TT8JFF?ref=myi_title_dp)
+- [Concrete Candle](https://www.amazon.in/Scented-Concrete-Candle-Fragrance-Infused/dp/B0C4TRSYRF/ref=sr_1_5?m=A3AKUQ1VSVC87D&marketplaceID=A21TJRUUN4KGV&qid=1684024903&s=merchant-items&sr=1-5)
+- [Le Collection Le Bleu](https://www.amazon.in/Scented-Frosted-Candle-Collection-Fragrance/dp/B0C4TJR9GP/ref=sr_1_6?m=A3AKUQ1VSVC87D&marketplaceID=A21TJRUUN4KGV&qid=1684024903&s=merchant-items&sr=1-6&th=1)
+- [Le Collection Le Noir](https://www.amazon.in/Scented-Frosted-Candle-Collection-Fragrance/dp/B0C4THJW2D/ref=sr_1_6?m=A3AKUQ1VSVC87D&marketplaceID=A21TJRUUN4KGV&qid=1684024903&s=merchant-items&sr=1-6&th=1)
 
 [Seller Products](https://www.amazon.in/s?me=A3AKUQ1VSVC87D&marketplaceID=A21TJRUUN4KGV)
 
