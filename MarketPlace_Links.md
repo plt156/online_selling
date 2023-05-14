@@ -21,10 +21,7 @@ https://bit.ly/amazonplt
 ## Pending Amazon
 - Massage oil candle
 - Avocado Hand Cream
-- Handmade Resin Bookmarks
 - Double Wick Holographic
-- Illuminate 2 Hamper
-- Enhance Hamper
 
 # Flipkart
 
