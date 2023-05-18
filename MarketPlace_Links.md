@@ -35,23 +35,24 @@ https://bit.ly/flipkartplt156
 - [amber candle](https://www.flipkart.com/avnika-bhandari-scented-amber-jar-candle-mood-elevation-room-freshner-luxury-home-decor/p/itm08496a4312a72?pid=CANGM4P8GAPYMSAZ)
 - [holographic candle](https://www.flipkart.com/avnika-bhandari-scented-holographic-candle/p/itm229c7dc6e2548?pid=CANGKDFMGCPCHKYS)
 - [Metallic Candle Bowl Candle](https://www.flipkart.com/avnika-bhandari-scented-hand-poured-soy-wax-metallic-candle-bowl/p/itm173afa0592918?pid=CANGKTRHW8TEXN3R&lid=LSTCANGKTRHW8TEXN3RIODV6B&marketplace=FLIPKART&q=avnika+bhandari&store=search.flipkart.com&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=e455a097-75ec-4b02-8a05-1961b2c0e6a1.CANGKTRHW8TEXN3R.SEARCH&ppt=sp&ppn=sp&ssid=ncc0ibw1mksb66801684024255076&qH=5a984282711007d5)
-
-## Pending Flipkart
-- Matt jar candle
-- Birthday candle
-- feel good candle
-- Scented Triple Wick Holographic Matki Candle
+- [metalic candle](https://www.flipkart.com/avnika-bhandari-scented-metallic-candle/p/itmf92fbc9cb45bd?pid=CANGKD6HHVEN86EF) out of stock
+- [Matt jar candle](https://www.flipkart.com/avnika-bhandari-matte-jar-scented-candle/p/itmf3c4ee769aa31?pid=CANGPH6ZH8PGPNY9)
+- [feel good candle](https://www.flipkart.com/avnika-bhandari-feel-good-candle/p/itmbccb66987f0cc?pid=CANGPH7ZA9BQF5SJ)
+- [Scented Triple Wick Holographic Matki Candle](https://www.flipkart.com/avnika-bhandari-triple-wick-holographic-matki-candle/p/itm603d25dc4e252?pid=CANGPH8Y6Z4QKRXA)
 - Love candle
-- Scented Birthday Glitter Candle
-- Concrete Candle
-- Scented Frosted Candle, Le Collection - Le Noir, Le Bleu, Le Blanc
-- Double Wick Holographic
-- Hardbound Plain Notebooks, Journal, Diary, Writing Pad, Reflection Pad
+- [Scented Birthday Glitter Candle](https://www.flipkart.com/avnika-bhandari-birthday-scented-candle/p/itm32ad05e5ef355?pid=CANGPH7H8JZRYVPV)
+- [Concrete Candle](https://www.flipkart.com/avnika-bhandari-concrete-candle/p/itm861de34a0aa85?pid=CANGPH8WPMKQJCDK)
+- Scented Frosted Candle, Le Collection - [Le Noir](https://www.flipkart.com/avnika-bhandari-scented-candle-le-noir-frosted-collection/p/itme690066f4e8c6?pid=CANGPHC68DKZJFJ3), Le Bleu, Le Blanc
+- [Double Wick Holographic](https://www.flipkart.com/avnika-bhandari-scented-double-wick-holographic-candle/p/itm27966f6b83e1e?pid=CANGPH98KA9NGK8F)
+- [Hardbound Plain Notebooks, Journal, Diary, Writing Pad, Reflection Pad](https://www.flipkart.com/avnika-bhandari-plt156bkpn2-a5-address-book-ruled-100-pages/p/itm1b25015d45445?pid=DIAGPH9QYUNNFSPD)
 - Illuminate 2 Hamper
-- enhance hamper
+- [enhance hamper](https://www.flipkart.com/avnika-bhandari-luxury-candle-hamper-enhance/p/itm75eb80cff3309?pid=CANGPHAMRPDYUHCE)
 - illuminate 1 hamper
-- Vertical Bliss Birthday Hamper
+- [Vertical Bliss Birthday Hamper](https://www.flipkart.com/avnika-bhandari-vertical-bliss-birthday-hamper-candle/p/itm8ccbca012f982?pid=CANGPHB3NTDHAZNQ)
 - Assorted Candle Hamper
+- [Bookmarks](https://www.flipkart.com/avnika-bhandari-handmade-resin-bookmarks-pack-2-colorful-twist-your-reading-pleasure-bookmark/p/itm7c1cec71dbbb1?pid=BMKGMYNJN5YGEPEZ)
+- glitter to be changed - submitted delete request
+
 
 # Others
 - Etsy https://prettylittlethingsab.etsy.com
