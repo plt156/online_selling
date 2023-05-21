@@ -42,17 +42,18 @@ https://bit.ly/flipkartplt156
 - Love candle](https://www.flipkart.com/avnika-bhandari-love-candle-matt-banquet-garden/p/itmb47aa37473a80?pid=CANGPH8DGCZ2FPEH)
 - [Scented Birthday Glitter Candle](https://www.flipkart.com/avnika-bhandari-birthday-scented-candle/p/itm32ad05e5ef355?pid=CANGPH7H8JZRYVPV)
 - [Concrete Candle](https://www.flipkart.com/avnika-bhandari-concrete-candle/p/itm861de34a0aa85?pid=CANGPH8WPMKQJCDK)
-- Scented Frosted Candle, Le Collection - [Le Noir](https://www.flipkart.com/avnika-bhandari-scented-candle-le-noir-frosted-collection/p/itme690066f4e8c6?pid=CANGPHC68DKZJFJ3), Le Bleu, Le Blanc
+- Scented Frosted Candle, Le Collection - [Le Noir](https://www.flipkart.com/avnika-bhandari-scented-candle-le-noir-frosted-collection/p/itme690066f4e8c6?pid=CANGPHC68DKZJFJ3), [Le Bleu](https://www.flipkart.com/product/p/itme?pid=CANGPP6EFRFWRTH6) , Le Blanc
 - [Double Wick Holographic](https://www.flipkart.com/avnika-bhandari-scented-double-wick-holographic-candle/p/itm27966f6b83e1e?pid=CANGPH98KA9NGK8F)
 - [Hardbound Plain Notebooks, Journal, Diary, Writing Pad, Reflection Pad](https://www.flipkart.com/avnika-bhandari-plt156bkpn2-a5-address-book-ruled-100-pages/p/itm1b25015d45445?pid=DIAGPH9QYUNNFSPD)
    > [Horizontal paint strokes](https://www.flipkart.com/avnika-bhandari-hardbound-notebook-horizontal-paint-strokes-a5-note-book-ruled-100-pages/p/itm19b267f6d4d1a?pid=DIAGPP5WNMBHWCGK)
-- Illuminate 2 Hamper
+- [Illuminate 2 Hamper](https://www.flipkart.com/avnika-bhandari-luxury-candle-hamper-illuminate-2/p/itma0992cb54da62?pid=CANGPSGQZPUFUGAS)
 - [enhance hamper](https://www.flipkart.com/avnika-bhandari-luxury-candle-hamper-enhance/p/itm75eb80cff3309?pid=CANGPHAMRPDYUHCE)
-- illuminate 1 hamper
+- [illuminate 1 hamper](https://www.flipkart.com/avnika-bhandari-luxury-candle-hamper-illuminate-1/p/itma9a4f37659b36?pid=CANGPSGCN5UMERGG)
 - [Vertical Bliss Birthday Hamper](https://www.flipkart.com/avnika-bhandari-vertical-bliss-birthday-hamper-candle/p/itm8ccbca012f982?pid=CANGPHB3NTDHAZNQ)
-- Assorted Candle Hamper
+- [Assorted Candle Hamper](https://www.flipkart.com/avnika-bhandari-assorted-candle-hamper-6-types-candles/p/itm35d65e5cc3e86?pid=CANGPHBNJHSZBF9W)
 - [Bookmarks](https://www.flipkart.com/avnika-bhandari-handmade-resin-bookmarks-pack-2-colorful-twist-your-reading-pleasure-bookmark/p/itm7c1cec71dbbb1?pid=BMKGMYNJN5YGEPEZ)
-- glitter to be changed - submitted delete request
+- [glitter to be assessed](https://www.flipkart.com/avnika-bhandari-triple-wick-glitter-candle/p/itm36d2845e17550?pid=CANGPH8NGRGVUZTH)
+- 
 
 
 # Others
@@ -77,6 +78,7 @@ https://bit.ly/flipkartplt156
 - [Concrete Candle](https://www.etsy.com/in-en/listing/1458103420/scented-concrete-slab-candle-100-soy-wax?click_key=240eb4cb8ac103a6c038056f003552932a08afae%3A1458103420&click_sum=75ebd399&ref=shop_home_active_11&frs=1)
 - [Scented Frosted Candle, Le Collection - Le Noir, Le Bleu, Le Blanc](https://www.etsy.com/in-en/listing/1472296795/scented-frosted-candle-le-collection-le?click_key=9a6ee0b72490211aef167423ae8493376fef1530%3A1472296795&click_sum=66fd7291&ref=shop_home_active_13&frs=1)
 - [Double Wick Holographic](https://www.etsy.com/in-en/listing/1337173662/scented-holographic-candle-amber-candle?click_key=f47d00b9befde164560cfbad2bf92e1d1ae14058%3A1337173662&click_sum=bd78c8b7&ref=shop_home_active_22&frs=1&variation0=3461271710)
+- [Triple wick glitter candle](https://www.etsy.com/in-en/listing/1486809569/scented-triple-wick-glitter-100-soy-wax?ref=listings_manager_grid)
 
 ### Luxury bathing
 - [Massage oil candle](https://www.etsy.com/in-en/listing/1475587479/massage-oil-candle-destressing-reusable?click_key=ac5de1a41770f82f3fe932e0a73e60fa791f2fa1%3A1475587479&click_sum=8169e5cd&ref=shop_home_active_9&frs=1)
@@ -96,6 +98,12 @@ https://bit.ly/flipkartplt156
 - [donut soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3252611648)
 - [Oats and Honey soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3267040807)
 - [rose clay soap](https://www.etsy.com/in-en/listing/1420201275/title-dessert-soaps-pack-of-2-handmade?variation0=3252611652)
+
+### Petit Soaps
+- [Aloe vera](https://www.etsy.com/in-en/listing/1481976633/petit-soaps-aloe-vera-soap-pack-of-2?ref=listings_manager_grid)
+- [Charcoal soap](https://www.etsy.com/in-en/listing/1472610676/petit-soaps-charcoal-soap-pack-of-2?ref=listings_manager_grid)
+- [Red wine pomegranate soap](https://www.etsy.com/in-en/listing/1472611854/petit-soaps-pack-of-2-heart-shaped-red?ref=listings_manager_grid)
+- 
 
 ### Resin
 [Handmade Resin Bookmarks](https://www.etsy.com/in-en/listing/1475590495/handmade-resin-bookmarks-pack-of-2?click_key=a61c4c86c1843ccbe513cbb1522edc01a4bdbf2d%3A1475590495&click_sum=1854f28d&ref=shop_home_active_3)
