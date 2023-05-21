@@ -39,7 +39,7 @@ https://bit.ly/flipkartplt156
 - [Matt jar candle](https://www.flipkart.com/avnika-bhandari-matte-jar-scented-candle/p/itmf3c4ee769aa31?pid=CANGPH6ZH8PGPNY9)
 - [feel good candle](https://www.flipkart.com/avnika-bhandari-feel-good-candle/p/itmbccb66987f0cc?pid=CANGPH7ZA9BQF5SJ)
 - [Scented Triple Wick Holographic Matki Candle](https://www.flipkart.com/avnika-bhandari-triple-wick-holographic-matki-candle/p/itm603d25dc4e252?pid=CANGPH8Y6Z4QKRXA)
-- Love candle](https://www.flipkart.com/avnika-bhandari-love-candle-matt-banquet-garden/p/itmb47aa37473a80?pid=CANGPH8DGCZ2FPEH)
+- [Love candle](https://www.flipkart.com/avnika-bhandari-love-candle-matt-banquet-garden/p/itmb47aa37473a80?pid=CANGPH8DGCZ2FPEH)
 - [Scented Birthday Glitter Candle](https://www.flipkart.com/avnika-bhandari-birthday-scented-candle/p/itm32ad05e5ef355?pid=CANGPH7H8JZRYVPV)
 - [Concrete Candle](https://www.flipkart.com/avnika-bhandari-concrete-candle/p/itm861de34a0aa85?pid=CANGPH8WPMKQJCDK)
 - Scented Frosted Candle, Le Collection - [Le Noir](https://www.flipkart.com/avnika-bhandari-scented-candle-le-noir-frosted-collection/p/itme690066f4e8c6?pid=CANGPHC68DKZJFJ3), [Le Bleu](https://www.flipkart.com/product/p/itme?pid=CANGPP6EFRFWRTH6) , Le Blanc
