@@ -118,3 +118,4 @@ https://bit.ly/flipkartplt156
 - [Assorted Candle Hamper](https://www.etsy.com/in-en/listing/1479909145/assorted-candle-hamper-with-6-types-of?click_key=cbd44a3d5dc0954d346ac914c1affc80adea1e08%3A1479909145&click_sum=ad68726c&ref=shop_home_active_7&frs=1)
 - [Love Hamper/Valentine Hamper](https://www.etsy.com/in-en/listing/1478225607/love-hamper-2-matt-jar-candles?click_key=1a00895e00ffc90ea4d8958a8acf6082f81b70d6%3A1478225607&click_sum=30b3d472&ref=shop_home_active_8&frs=1)
 - [Noir Birthday Hamper](https://www.etsy.com/in-en/listing/1462358016/noir-birthday-hamper-candle-notebook-ck?click_key=8b6a05aef463c581597e5ec4411cc8519b12c6a6%3A1462358016&click_sum=c90f662f&ref=shop_home_active_10&frs=1)
+- [Personalized Euphoria Hamper](https://www.etsy.com/in-en/listing/1486816349/personalized-euphoria-hamper-customized?ref=listings_manager_grid)
