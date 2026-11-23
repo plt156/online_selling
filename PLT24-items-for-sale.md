@@ -1,21 +1,6 @@
 # PLT24 — Items For Sale
 
-Resale listing draft for leftover candle/soap-making, home decor, art-supply and gifting inventory, built from `Nikki boxes PDF description.md` (per-page photo descriptions + researched pricing), `correleation-image-to-carton.txt` (carton/box locations), `notes Nikki boxes.txt` / `Nikki notes boxes modified.txt` (handwritten inventory notes), and `nikkiBoxes.MD` (Carton 1 jar/bottle list).
 
-**Exclusions applied** (per `not-for-sale.md`):
-- Items whose only source photo(s) fall on pages 5, 20, 23, 30, 33, 37, 38, 63, 66, 67, 69, 79, 99–103, 106, and 110–114 (23 pages) are held back from this list.
-- The Weigh Mate electronic weighing scale and the plain aluminium tray/lid are excluded by name.
-- Items whose *every* source photo falls on an excluded page are dropped entirely.
-
-**Pricing rule**: `salePrice` = 75% of the midpoint of the originally researched price range (25% below research value), rounded to the nearest rupee, expressed per unit (per jar/bottle/mould/set/etc. — see `quantity` for how many units are in the lot).
-
-**Special cases**:
-- Item 15 (Vijay Impex Goat Milk Soap Base) is past its printed expiry ("EXP DT: SEP-26", vs. today 2026-11-21) and is listed **FREE** to clear rather than sold.
-- Items 201–209 are small glass/metal jars and a nail-oil bottle listed in `nikkiBoxes.MD` under Carton 1 ("JARS — GLASS/METAL") that have no corresponding PDF photo; these are flat-priced at ₹90 per piece per direct instruction, not independently researched.
-
-**Coverage**: 156 items listed for sale (147 from the photographed PDF inventory + 9 jar/bottle items from `nikkiBoxes.MD`). Carton/box locations come from `correleation-image-to-carton.txt`; marked "carton location unclear" where that file doesn't cover the page, and "(ambiguous...)" where the correlation file itself overlaps (e.g. page 20 cited under both Carton 2 and Carton 5; page 109 sits in both the 12AV range and the explicit "19AV — one box of moulds" note).
-
----
 
 Items are grouped by source photo — each image group has a summary title covering every product sourced from that photo, followed by the image and each product's own full listing ("well").
 
@@ -367,11 +352,19 @@ Items are grouped by source photo — each image group has a summary title cover
 
 **salePrice:** ₹71 per jar
 
-**quantity:** 47 jars available
+**quantity:** many jars available
 
 **metadata:** Located in Box 10 / Box 12AV / Carton 1 / Carton 4; price is a market-rate estimate, no exact listing found.
 
 **uses:** The vessel for amber jar candles, matte jar candles, holographic candles, Feel Good candles, and the Illuminate/Enhance gift hamper SKUs — essentially the core container for most Flipkart-style candle pours.
+
+
+Glass jar, small, transparent — 8.5 cm by 6.5cm
+
+**title:** Small Transparent Glass Candle Jar — 8.5 cm by 6.5cm
+
+
+
 
 ---
 
@@ -457,37 +450,26 @@ Items are grouped by source photo — each image group has a summary title cover
 
 ---
 
-### Dark-stained wooden candle lids, Terracotta/clay candle vessel, cream rim
+### Glass/metal jar, coloured metallic finish — 7.5 cm
 
 ![Candle vessels wrapped in kraft paper with a stack of dark wooden lids visible.](pdf_pages/page-011.jpg)
 
-#### 27. Dark-stained wooden candle lids
+#### 27. Glass/metal jar, coloured metallic finish — 7.5 cm
 
-**title:** Dark Walnut-Stained Wooden Candle Jar Lids
+**title:** Coloured Metallic-Finish Candle Jar — 7.5 cm
 
-**description:** Flat circular MDF/pine discs with a dark walnut / espresso stain, designed to press-fit into a glass candle jar rim. Unused surplus from our studio clear-out. A warm, premium finish.
+**description:** A candle jar with a coloured metallic finish, approx 7.5 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
 
-**salePrice:** ₹60 per lid
+**salePrice:** ₹90 per piece
 
-**quantity:** 12 lids available
+**quantity:** 11 piece available
 
-**metadata:** Located in Carton 1; price is a market-rate estimate, no exact listing found.
+**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
 
-**uses:** Pairs naturally with matte jar candles, amber jar candles, Feel Good candles, and rustic dough bowl candle-style hampers.
+**uses:** A colour-finish vessel well suited to holographic candle or birthday glitter candle style pours.
 
-#### 31. Terracotta/clay candle vessel, cream rim
 
-**title:** Handmade Terracotta Candle Vessel — Cream-Glazed Rim
 
-**description:** A handmade earthenware pot (likely Indian pottery) with a glazed cream band near the top — a rustic, organic candle vessel with real character. Unused surplus from our studio clear-out.
-
-**salePrice:** ₹206 per piece
-
-**quantity:** 1 piece available
-
-**metadata:** Located in Carton 1; price is a market-rate estimate, no exact listing found.
-
-**uses:** Perfect vessel for a rustic dough bowl-style candle, a mini candle urli, or a concrete-candle-adjacent earthy SKU.
 
 ---
 
@@ -555,33 +537,24 @@ Items are grouped by source photo — each image group has a summary title cover
 
 ![Rows of small gold-sprayed glass bottles standing in cardboard dividers inside a packing carton.](pdf_pages/page-019.jpg)
 
-#### 34. Gold-sprayed small glass bottles (roll-on / mini size)
+#### 34. Nail oil bottle — 7.5 x 3 cm
 
-**title:** Gold-Finish Mini Glass Bottles (Roll-on / Attar Size)
+**title:** Small Nail Oil Bottle — 7.5 x 3 cm
 
-**description:** Small 10–30 ml glass bottles with a metallic gold spray finish, originally intended for perfume, attar, or essential-oil packaging. Surplus unused inventory from our relocation, still packed in their original dividers. A ready-made premium look for anyone bottling fragrances or creating mini decor.
+**description:** A small bottle sized for cuticle/nail oil, approx 7.5 x 3 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
 
-**salePrice:** ₹39 per bottle
+**salePrice:** ₹50 per piece
 
-**quantity:** 25 bottles available
+**quantity:** 1 (quantity not specified in notes) piece available
 
-**metadata:** Packed in Carton 1; price is a market-rate estimate, no exact listing found.
+**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
+
+**uses:** Small cosmetic/oil roller bottle — useful for packaging nail/cuticle oil, fragrance oil samples, or mini gift-hamper add-ons.
+
+
+Gold-sprayed small glass bottles (roll-on / mini size)
 
 **uses:** Perfect for bottling fragrance oils, attars, or roll-on perfumes to sell alongside candle hampers; could also feature as mini vases inside a decorative gift hamper.
-
-#### 35. Black plastic bottle caps / pump tops (bag)
-
-**title:** Black Plastic Caps & Pump Tops — Perfume/Attar Fit
-
-**description:** A mixed bag of black plastic closures — plain screw caps and spray/pump tops — sized to fit small 10–30 ml roll-on and perfume bottles. Surplus unused stock from our relocation, ready to pair with bottles you already have. Handy whether you’re bottling scents or restocking craft supplies.
-
-**salePrice:** ₹14 per bottle
-
-**quantity:** 1 bottle available
-
-**metadata:** Packed in Carton 1; price is a market-rate estimate, no exact listing found.
-
-**uses:** Pair directly with the gold mini glass bottles (Item 34) to finish a complete attar/roll-on/perfume packaging kit for a fragrance line or gift hamper add-on.
 
 ---
 
@@ -905,13 +878,21 @@ Items are grouped by source photo — each image group has a summary title cover
 
 **description:** A grey silicone mould with 6 hexagonal honeycomb cavities featuring a bee motif at the centre — ideal for honey/bee themed soaps, candles, and chocolates. Surplus unused from our relocation, in clean ready-to-pour condition. A charming nature-inspired form.
 
-**salePrice:** ₹218 per mould
+**salePrice:** ₹169 per mould
 
 **quantity:** 1 mould available
 
 **metadata:** Stored in Box 12AV; priced against Flipkart listing.
 
 **uses:** Pour beeswax honeycomb-style wax melts (a natural fit with our wax tablet line) or create bee-themed artisanal soaps for springtime gifting.
+
+
+Transparent/silicone bee-shaped moulds, 9.5cm — 7 (per notes)
+
+**title:** Transparent Silicone Bee-Shaped Moulds, 9.5 cm 
+
+**uses:** Casting bee-themed scented candles, melt-and-pour soaps, wax-melt tablets and resin paperweights — ideal for honey/beeswax themed hampers.
+
 
 ---
 
@@ -1385,17 +1366,24 @@ Items are grouped by source photo — each image group has a summary title cover
 
 #### 84. Rectangular mango-wood tray with glossy chilli-print interior
 
-**title:** Mango-Wood Tray with Chilli-Print Enamel Interior
+**title:** Mango-Wood Tray with Chilli-Print Enamel Interior Approx 28 x 15 cm
 
 **description:** Handcrafted mango-wood rectangular tray with a glossy red-and-pink chilli-pattern enamel/resin interior. Unused surplus from studio inventory, cleared post-relocation. A statement serve-ware piece with real artisan character.
 
-**salePrice:** ₹562 per tray
+**salePrice:** ₹400 per tray
 
-**quantity:** 1 tray available
+**quantity:** 3 to 4 tray available
 
 **metadata:** Box 12AV; priced against Flipkart listing.
 
-**uses:** Ready-to-use decorative tray for serving, catch-all, or trousseau/gift styling. Also works as a premium hamper base — fill with jar candles, wax tablets and a journal for a built-in Flipkart-style hamper.
+**uses:** Ready-to-use decorative tray for serving, catch-all, or trousseau/gift styling. Also works as a premium hamper base — fill with jar candles, wax tablets and a journal for a built-in Flipkart-style hamper. Base trays for candle/soap hampers, serving trays, pooja/festive platters, or decorative trinket trays for home decor.
+
+Red wooden trays, 28x15cm — multiple (per notes)
+
+**title:** Red Painted Wooden Hamper Trays — 
+
+**description:** Multiple painted red mango-wood / MDF serving trays approximately 28 × 15 cm — used as hamper bases and decorative trays. Surplus unused stock from the studio clear-out. Priced per tray.
+
 
 ---
 
@@ -2377,268 +2365,3 @@ Items are grouped by source photo — each image group has a summary title cover
 
 **uses:** General acrylic painting on canvas, wood, candles and craft surfaces; a strong all-round shade range for any painter.
 
----
-
-### Shrink-wrapped shipping carton, inbound cour…
-
-![Taped and shrink-wrapped shipping carton with courier label.](pdf_pages/page-036.jpg)
-
-#### 192. Shrink-wrapped shipping carton, inbound courier parcel
-
-**title:** Shrink-Wrapped Shipping Carton — Inbound Parcel (Packaging Only)
-
-**description:** A corrugated shipping carton wrapped in shrink-film / courier poly, as received from a supplier. Not a sellable SKU on its own — value here is for the packaging material (carton + shrink film) only.
-
-**salePrice:** ₹75 per piece
-
-**quantity:** 1 piece available
-
-**metadata:** Carton location unclear; price is a market-rate estimate, no exact listing found.
-
-**uses:** Reusable outer shipping carton with shrink film — handy for re-couriering inventory or repurposing as sturdy storage.
-
----
-
-### Fine dining cutlery / chinaware set, Kitchen party items — 40 sets of jar + lower…, +more
-
-No photo available — sourced from handwritten inventory notes.
-
-#### 193. Fine dining cutlery / chinaware set (per notes, boxes 6AV/7AV)
-
-**title:** Fine Dining Cutlery & Chinaware Set — Complete Dinner Service
-
-**description:** A multi-piece formal dining service — bone-china / ceramic plates plus stainless-steel cutlery — of the kind sold as a complete set. Stored as a household item through the studio relocation, now being cleared out. Priced well below mid-range dinner-set MRPs.
-
-**salePrice:** ₹2550 per box
-
-**quantity:** 1 set (not individually counted) box available
-
-**metadata:** Stored across Box 6AV and Box 7AV (per notes); priced against Flipkart listing.
-
-**uses:** Ready-to-use home dinner service for family or formal entertaining; could also be regifted as a wedding/housewarming present.
-
-#### 194. Kitchen party items — 40 sets of jar + lower stand (per notes box 10)
-
-**title:** Kitchen Jar + Lower Stand Sets — Lot of 40
-
-**description:** Forty sets of a decorative jar paired with a matching lower stand — the classic "party favour" / kitchen-gifting format (think spice jar, honey jar or small candle jar on a riser). Surplus bulk stock from the relocation, priced per set. A ready-to-flip bulk lot for another gifting seller.
-
-**salePrice:** ₹244 per jar
-
-**quantity:** 40 jars available
-
-**metadata:** Stored in Box 10 (per notes); priced against Flipkart listing.
-
-**uses:** Resell individually as spice/honey jars, candle holders, or wedding-favour sets; also usable as mini candle vessels on their own risers.
-
-#### 195. KK gift hampers — 24 total (12x2), candle + soap + wax tablets + coaster (per notes box 8)
-
-**title:** Branded Gift Hampers — Candle + Soap + Wax Tablets + Coaster (Lot of 24)
-
-**description:** Twenty-four finished artisanal gift hampers (two cartons of 12), each containing a scented candle, handmade soap, wax-melt tablets and a coaster — directly comparable to the Avnika Bhandari Illuminate / Enhance / Assorted Candle hampers sold on Flipkart. Fully boxed, sellable as-is. Priced per hamper.
-
-**salePrice:** ₹544 per box
-
-**quantity:** 24 boxs available
-
-**metadata:** Stored in Box 8 (per notes); priced against Flipkart listing.
-
-**uses:** Ready-to-sell finished gift hampers — identical in format to the seller's own Flipkart hamper SKUs; resellable immediately for wedding favours, corporate gifting or Diwali/festive sales.
-
-#### 196. 35 boxes of ready-made candles (per notes box 14)
-
-**title:** Ready-Made Scented Jar Candles in Retail Boxes — Lot of 35
-
-**description:** Thirty-five finished scented candles in glass jars, each packed in its own retail gift box — the business's own production, ready for retail sale. Priced per box, well below the normal Flipkart price point. A ready inventory for any gifting reseller.
-
-**salePrice:** ₹262 per box
-
-**quantity:** 35 boxs available
-
-**metadata:** Stored in Box 14 (per notes); priced against Flipkart listing.
-
-**uses:** Ready-to-sell finished product — directly comparable to the seller's amber/matte/holographic jar candles on Flipkart; resell as-is, gift individually, or bundle into bigger hampers.
-
-#### 197. Nitrile gloves — 20 (per notes)
-
-**title:** Powder-Free Disposable Nitrile Gloves — 20 pcs
-
-**description:** Twenty powder-free disposable nitrile examination gloves, surplus from a candle-making studio. Previously stocked for use with hot wax, dyes and fragrance oils. Clean unused gloves at a small-pack price.
-
-**salePrice:** ₹54 per piece
-
-**quantity:** 20 pieces available
-
-**metadata:** Carton location unclear (per notes); priced against Flipkart listing.
-
-**uses:** Handling hot wax, dyes, fragrance oils and soap base without skin contact or staining; also handy for resin, cleaning and general craft work.
-
-#### 198. A4 yellow art & craft sheets — 30 (per notes)
-
-**title:** A4 Yellow Craft Paper Sheets — Pack of 30
-
-**description:** Thirty A4-size yellow coloured craft paper sheets (typical craft gsm) — surplus studio stock from the relocation. Ready for scrapbooking, wrap, and lining projects. Priced below standard pack rate.
-
-**salePrice:** ₹116 per sheet
-
-**quantity:** 30 sheets available
-
-**metadata:** Carton location unclear (per notes); priced against Flipkart listing.
-
-**uses:** Scrapbooking, origami, gift wrapping, box lining for hampers, and school/kids' art projects.
-
-#### 199. Red wooden trays, 28x15cm — multiple (per notes)
-
-**title:** Red Painted Wooden Hamper Trays — Approx 28 x 15 cm
-
-**description:** Multiple painted red mango-wood / MDF serving trays approximately 28 × 15 cm — used as hamper bases and decorative trays. Surplus unused stock from the studio clear-out. Priced per tray.
-
-**salePrice:** ₹412 per tray
-
-**quantity:** quantity not specified in notes tray available
-
-**metadata:** Carton location unclear (per notes); priced against Flipkart listing.
-
-**uses:** Base trays for candle/soap hampers, serving trays, pooja/festive platters, or decorative trinket trays for home decor.
-
-#### 200. Transparent/silicone bee-shaped moulds, 9.5cm — 7 (per notes)
-
-**title:** Transparent Silicone Bee-Shaped Moulds, 9.5 cm — Pack of 7
-
-**description:** Seven transparent silicone moulds in bee / honeybee shapes (approx 9.5 cm), matching the honey/beeswax product line of the studio. Unused surplus from the relocation. Priced per mould.
-
-**salePrice:** ₹169 per mould
-
-**quantity:** 7 moulds available
-
-**metadata:** Carton location unclear (per notes); priced against Flipkart listing.
-
-**uses:** Casting bee-themed scented candles, melt-and-pour soaps, wax-melt tablets and resin paperweights — ideal for honey/beeswax themed hampers.
-
-#### 201. Glass jar, small, transparent — 8.5 cm
-
-**title:** Small Transparent Glass Candle Jar — 8.5 cm
-
-**description:** A small clear glass jar, approx 8.5 cm, from the "Jars — Glass/Metal" lot noted in Carton 1 (BOXES-RD). Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes, "1) JARS - GLASS/METAL", BOXES-RD); flat-priced per user instruction, not independently researched.
-
-**uses:** A compact container candle vessel — well suited to mini candle urli pours or small gifting candles.
-
-#### 202. Glass jar, transparent — 6.5 cm
-
-**title:** Transparent Glass Candle Jar — 6.5 cm
-
-**description:** A clear glass jar, approx 6.5 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
-
-**uses:** Small container candle vessel for mini pours or sample-size gifting candles.
-
-#### 203. Glass jar, medium, transparent — 7.5 cm
-
-**title:** Medium Transparent Glass Candle Jar — 7.5 cm
-
-**description:** A clear glass jar, medium size, approx 7.5 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
-
-**uses:** Mid-size container candle vessel, suitable for standard jar candle pours (matte jar candle, amber jar candle style).
-
-#### 204. Glass jar, transparent — 9.5 cm
-
-**title:** Transparent Glass Candle Jar — 9.5 cm
-
-**description:** A clear glass jar, approx 9.5 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
-
-**uses:** Standard-size container candle vessel for jar candle pours.
-
-#### 205. Glass/metal jar, metallic finish — 8 cm
-
-**title:** Metallic-Finish Candle Jar — 8 cm
-
-**description:** A candle jar with a metallic finish, approx 8 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
-
-**uses:** Matches the look of the metallic candle / metallic candle bowl product lines — a ready vessel for a metallic-finish pour.
-
-#### 206. Glass/metal jar, metallic finish — 7.5 cm
-
-**title:** Metallic-Finish Candle Jar — 7.5 cm
-
-**description:** A candle jar with a metallic finish, approx 7.5 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
-
-**uses:** Pairs with the metallic candle / metallic candle bowl line — ready vessel for a metallic-finish pour.
-
-#### 207. Glass/metal jar, coloured metallic finish — 9.5 cm
-
-**title:** Coloured Metallic-Finish Candle Jar — 9.5 cm
-
-**description:** A candle jar with a coloured metallic finish, approx 9.5 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
-
-**uses:** A colour-finish vessel well suited to holographic candle or birthday glitter candle style pours.
-
-#### 208. Glass/metal jar, coloured metallic finish — 7.5 cm
-
-**title:** Coloured Metallic-Finish Candle Jar — 7.5 cm
-
-**description:** A candle jar with a coloured metallic finish, approx 7.5 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
-
-**uses:** A colour-finish vessel well suited to holographic candle or birthday glitter candle style pours.
-
-#### 209. Nail oil bottle — 7.5 x 3 cm
-
-**title:** Small Nail Oil Bottle — 7.5 x 3 cm
-
-**description:** A small bottle sized for cuticle/nail oil, approx 7.5 x 3 cm, from the "Jars — Glass/Metal" lot noted in Carton 1. Surplus studio stock, unused.
-
-**salePrice:** ₹90 per piece
-
-**quantity:** 1 (quantity not specified in notes) piece available
-
-**metadata:** Carton 1 (per notes); flat-priced per user instruction, not independently researched.
-
-**uses:** Small cosmetic/oil roller bottle — useful for packaging nail/cuticle oil, fragrance oil samples, or mini gift-hamper add-ons.
-
----
